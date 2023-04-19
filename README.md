@@ -103,4 +103,5 @@ Kernels Used:
 </table>
 
 <h1> Convergence Graph </h1>
-![convgraph](https://user-images.githubusercontent.com/79705963/233172722-8766f3d1-6c40-4c59-bbb4-4f3e866a54f3.png)
+![convgraph](https://user-images.githubusercontent.com/79705963/233173092-94e3faeb-b2a6-404f-a2c0-f1cca726481c.png)
+
